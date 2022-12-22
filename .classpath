@@ -12,7 +12,6 @@
 	<classpathentry kind="lib" path="Librerias/jfreechart-1.0.14.jar"/>
 	<classpathentry kind="lib" path="Librerias/itext5-itextpdf-5.5.12.jar"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/3"/>
-	<classpathentry kind="lib" path="F:/Programacion/Java/Proyectos_JAVA/ProyectoCorte3-master/Librerias/javax.mail.jar"/>
 	<classpathentry kind="lib" path="Librerias/mail.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
